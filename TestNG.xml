@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="AdaptiveRetail test">
+
+<listeners>
+<listener class-name="com.AdaptiveRetail.Utilities.Reporting"/>
+
+</listeners>
+
+	<test name="AdaptiveRetail Test">
+		<parameter name="browser" value="Chrome" />
+		<classes>
+			<class name="com.AdaptiveRetail.TestCases.LoginTest" />
+			<class name="com.AdaptiveRetail.TestCases.PersonalinfoTest" />
+			 <class name="com.AdaptiveRetail.TestCases.CommunicationPreferenceTest" />
+			<class name="com.AdaptiveRetail.TestCases.PaymerntMethodTest" />
+		</classes>
+	</test>
+	
+	<test name="AdaptiveRetail Test1">
+		<parameter name="browser" value="IE" />
+		<classes>
+			<class name="com.AdaptiveRetail.TestCases.LoginTest" />
+			<class name="com.AdaptiveRetail.TestCases.PersonalinfoTest" />
+			 <class name="com.AdaptiveRetail.TestCases.CommunicationPreferenceTest" />
+			<class name="com.AdaptiveRetail.TestCases.PaymerntMethodTest" />
+		</classes>
+	</test>
+	
+	
+
+</suite>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AdaptiveRetail test" duration-ms="150721" started-at="2022-12-24T12:12:26 IST" finished-at="2022-12-24T12:14:57 IST">
+    <groups>
+    </groups>
+    <test name="AdaptiveRetail Test" duration-ms="78062" started-at="2022-12-24T12:12:26 IST" finished-at="2022-12-24T12:13:44 IST">
+      <class name="com.AdaptiveRetail.TestCases.CommunicationPreferenceTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:[CommunicationPreferenceTest passed=0 failed=0 skipped=0]]" name="setup" is-config="true" duration-ms="2986" started-at="2022-12-24T12:12:59 IST" finished-at="2022-12-24T12:13:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkboxTest()[pri:0, instance:[CommunicationPreferenceTest passed=0 failed=0 skipped=0]]" name="checkboxTest" duration-ms="17003" started-at="2022-12-24T12:13:02 IST" finished-at="2022-12-24T12:13:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkboxTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[CommunicationPreferenceTest passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="6139" started-at="2022-12-24T12:13:19 IST" finished-at="2022-12-24T12:13:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AdaptiveRetail.TestCases.CommunicationPreferenceTest -->
+      <class name="com.AdaptiveRetail.TestCases.LoginTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="setup" is-config="true" duration-ms="6083" started-at="2022-12-24T12:12:26 IST" finished-at="2022-12-24T12:12:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="login" duration-ms="3016" started-at="2022-12-24T12:12:32 IST" finished-at="2022-12-24T12:12:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="5691" started-at="2022-12-24T12:12:37 IST" finished-at="2022-12-24T12:12:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AdaptiveRetail.TestCases.LoginTest -->
+      <class name="com.AdaptiveRetail.TestCases.PaymerntMethodTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:[PaymerntMethodTest passed=0 failed=0 skipped=0]]" name="setup" is-config="true" duration-ms="3159" started-at="2022-12-24T12:13:25 IST" finished-at="2022-12-24T12:13:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="paymentTest()[pri:0, instance:[PaymerntMethodTest passed=0 failed=0 skipped=0]]" name="paymentTest" duration-ms="9480" started-at="2022-12-24T12:13:28 IST" finished-at="2022-12-24T12:13:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[PaymerntMethodTest passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="5950" started-at="2022-12-24T12:13:38 IST" finished-at="2022-12-24T12:13:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AdaptiveRetail.TestCases.PaymerntMethodTest -->
+      <class name="com.AdaptiveRetail.TestCases.PersonalinfoTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:[PersonalinfoTest passed=0 failed=0 skipped=0]]" name="setup" is-config="true" duration-ms="3099" started-at="2022-12-24T12:12:42 IST" finished-at="2022-12-24T12:12:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyPersonalInfo()[pri:0, instance:[PersonalinfoTest passed=0 failed=0 skipped=0]]" name="verifyPersonalInfo" duration-ms="5621" started-at="2022-12-24T12:12:45 IST" finished-at="2022-12-24T12:12:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPersonalInfo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[PersonalinfoTest passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="7577" started-at="2022-12-24T12:12:51 IST" finished-at="2022-12-24T12:12:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AdaptiveRetail.TestCases.PersonalinfoTest -->
+    </test> <!-- AdaptiveRetail Test -->
+    <test name="AdaptiveRetail Test1" duration-ms="72073" started-at="2022-12-24T12:13:44 IST" finished-at="2022-12-24T12:14:57 IST">
+      <class name="com.AdaptiveRetail.TestCases.CommunicationPreferenceTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:[CommunicationPreferenceTest passed=0 failed=0 skipped=0]]" name="setup" is-config="true" duration-ms="1832" started-at="2022-12-24T12:14:11 IST" finished-at="2022-12-24T12:14:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkboxTest()[pri:0, instance:[CommunicationPreferenceTest passed=0 failed=0 skipped=0]]" name="checkboxTest" duration-ms="16965" started-at="2022-12-24T12:14:13 IST" finished-at="2022-12-24T12:14:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkboxTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[CommunicationPreferenceTest passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="6328" started-at="2022-12-24T12:14:30 IST" finished-at="2022-12-24T12:14:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AdaptiveRetail.TestCases.CommunicationPreferenceTest -->
+      <class name="com.AdaptiveRetail.TestCases.LoginTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="setup" is-config="true" duration-ms="1811" started-at="2022-12-24T12:13:44 IST" finished-at="2022-12-24T12:13:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="login" duration-ms="3253" started-at="2022-12-24T12:13:46 IST" finished-at="2022-12-24T12:13:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="6383" started-at="2022-12-24T12:13:51 IST" finished-at="2022-12-24T12:13:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AdaptiveRetail.TestCases.LoginTest -->
+      <class name="com.AdaptiveRetail.TestCases.PaymerntMethodTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:[PaymerntMethodTest passed=0 failed=0 skipped=0]]" name="setup" is-config="true" duration-ms="1891" started-at="2022-12-24T12:14:37 IST" finished-at="2022-12-24T12:14:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="paymentTest()[pri:0, instance:[PaymerntMethodTest passed=0 failed=0 skipped=0]]" name="paymentTest" duration-ms="11269" started-at="2022-12-24T12:14:38 IST" finished-at="2022-12-24T12:14:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[PaymerntMethodTest passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="6678" started-at="2022-12-24T12:14:50 IST" finished-at="2022-12-24T12:14:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AdaptiveRetail.TestCases.PaymerntMethodTest -->
+      <class name="com.AdaptiveRetail.TestCases.PersonalinfoTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:[PersonalinfoTest passed=0 failed=0 skipped=0]]" name="setup" is-config="true" duration-ms="1805" started-at="2022-12-24T12:13:57 IST" finished-at="2022-12-24T12:13:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyPersonalInfo()[pri:0, instance:[PersonalinfoTest passed=0 failed=0 skipped=0]]" name="verifyPersonalInfo" duration-ms="5326" started-at="2022-12-24T12:13:59 IST" finished-at="2022-12-24T12:14:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPersonalInfo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:[PersonalinfoTest passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="6628" started-at="2022-12-24T12:14:05 IST" finished-at="2022-12-24T12:14:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AdaptiveRetail.TestCases.PersonalinfoTest -->
+    </test> <!-- AdaptiveRetail Test1 -->
+  </suite> <!-- AdaptiveRetail test -->
+</testng-results>

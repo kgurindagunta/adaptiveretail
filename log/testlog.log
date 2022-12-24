@@ -1,0 +1,737 @@
+2022-11-25 12:49:06,262 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 12:50:31,791 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 12:57:48,469 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 13:08:59,554 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 13:14:06,035 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 13:16:17,492 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 13:20:15,873 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 13:22:48,787 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 13:26:59,812 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 13:35:59,564 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 13:43:46,943 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 13:49:40,332 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 13:55:36,237 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 14:36:55,633 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 19:09:23,523 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 19:09:38,448 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 19:09:40,460 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-11-25 19:19:12,394 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 19:19:27,309 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 19:19:29,314 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-11-25 19:19:29,336 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-11-25 19:19:29,358 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-11-25 19:19:29,379 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-11-25 20:00:51,301 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 20:01:06,383 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 20:01:08,133 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-11-25 20:01:08,157 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-11-25 20:01:08,181 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-11-25 20:01:08,201 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-11-25 20:01:25,365 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-25 20:01:29,024 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-11-25 20:01:32,088 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-11-25 20:01:32,165 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-11-25 20:01:35,206 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-11-25 20:01:38,259 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-11-28 09:28:37,052 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-28 11:42:13,965 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-28 11:42:28,751 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-28 11:42:30,486 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-11-28 11:42:30,509 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-11-28 11:42:30,531 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-11-28 11:42:30,553 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-11-28 11:42:42,908 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-28 11:42:44,574 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-11-28 11:42:47,628 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-11-28 11:42:47,671 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-11-28 11:42:50,719 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-11-28 11:42:53,763 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-11-28 11:43:09,487 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-28 11:48:40,992 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-28 11:48:56,802 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-28 11:48:59,258 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-11-28 11:48:59,279 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-11-28 11:48:59,307 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-11-28 11:48:59,327 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-11-28 11:49:12,584 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-28 11:49:14,620 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-11-28 11:49:17,670 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-11-28 11:49:17,722 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-11-28 11:49:20,765 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-11-28 11:49:23,815 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-11-28 11:49:38,968 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-28 11:49:41,109 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-11-28 11:49:42,491 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-11-28 11:49:42,547 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-11-28 11:49:42,614 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-11-28 11:49:42,829 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-11-28 11:49:42,918 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-11-28 11:49:42,959 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-11-28 11:49:44,744 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-11-28 11:58:31,848 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-28 11:58:46,746 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-28 11:58:48,703 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-11-28 11:58:48,725 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-11-28 11:58:48,745 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-11-28 11:58:48,767 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-11-28 11:59:02,171 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-28 11:59:04,177 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-11-28 11:59:07,230 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-11-28 11:59:07,281 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-11-28 11:59:10,327 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-11-28 11:59:13,389 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-11-28 11:59:30,384 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-11-28 11:59:32,643 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-11-28 11:59:34,409 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-11-28 11:59:34,465 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-11-28 11:59:34,533 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-11-28 11:59:34,784 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-11-28 11:59:34,885 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-11-28 11:59:34,931 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-11-28 11:59:36,734 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-02 11:48:32,863 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 11:48:47,898 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 11:48:49,626 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-02 11:48:49,648 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-02 11:48:49,671 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-02 11:48:49,694 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-02 11:49:02,603 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 11:49:04,614 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-02 11:49:07,670 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-02 11:49:07,713 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-02 11:49:10,748 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-02 11:49:13,794 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-02 11:49:28,362 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 11:49:30,199 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-02 11:49:31,633 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-02 11:49:31,690 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-02 11:49:31,759 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-02 11:49:32,053 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-02 11:49:32,164 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-02 11:49:32,213 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-02 11:49:33,865 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-02 12:06:48,103 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 12:07:02,110 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 12:07:03,738 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-02 12:07:03,762 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-02 12:07:03,787 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-02 12:07:03,808 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-02 12:07:16,415 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 12:07:18,341 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-02 12:07:21,397 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-02 12:07:21,445 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-02 12:07:24,484 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-02 12:07:27,538 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-02 12:07:42,124 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 12:07:43,801 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-02 12:07:45,176 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-02 12:07:45,230 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-02 12:07:45,304 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-02 12:07:45,551 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-02 12:07:45,655 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-02 12:07:45,703 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-02 12:07:47,027 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-02 12:10:59,198 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 12:11:16,515 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 12:11:18,217 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-02 12:11:18,239 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-02 12:11:18,263 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-02 12:11:18,284 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-02 12:11:31,551 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 12:11:33,214 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-02 12:11:36,263 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-02 12:11:36,312 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-02 12:11:39,352 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-02 12:11:42,409 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-02 12:12:00,439 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 12:12:02,387 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-02 12:12:03,738 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-02 12:12:03,791 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-02 12:12:03,855 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-02 12:12:04,064 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-02 12:12:04,158 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-02 12:12:04,200 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-02 12:12:05,602 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-02 12:38:25,000 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 12:38:39,615 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 12:38:41,601 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-02 12:38:41,626 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-02 12:38:41,648 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-02 12:38:41,672 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-02 12:38:55,117 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 12:38:56,950 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-02 12:39:00,003 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-02 12:39:00,073 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-02 12:39:03,115 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-02 12:39:06,158 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-02 12:39:20,785 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 12:39:22,993 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-02 12:39:24,981 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-02 12:39:25,045 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-02 12:39:25,122 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-02 12:39:25,402 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-02 12:39:25,537 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-02 12:39:25,599 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-02 12:39:27,474 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-02 12:45:50,269 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 12:46:04,896 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 12:46:06,833 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-02 12:46:06,857 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-02 12:46:06,880 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-02 12:46:06,904 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-02 12:46:20,037 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 12:46:21,949 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-02 12:46:25,001 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-02 12:46:25,062 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-02 12:46:28,117 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-02 12:46:31,176 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-02 12:46:50,582 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-02 12:46:52,417 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-02 12:46:53,819 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-02 12:46:53,888 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-02 12:46:53,972 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-02 12:46:54,253 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-02 12:46:54,368 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-02 12:46:54,420 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-02 12:46:55,829 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-07 10:58:58,462 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-07 10:59:14,107 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-07 10:59:15,952 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-07 10:59:15,970 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-07 10:59:15,988 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-07 10:59:16,007 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-07 10:59:28,318 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-07 10:59:30,177 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-07 10:59:33,222 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-07 10:59:33,259 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-07 10:59:36,288 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-07 10:59:39,319 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-07 10:59:53,038 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-07 10:59:55,051 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-07 10:59:56,700 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-07 10:59:56,738 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-07 10:59:56,786 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-07 10:59:56,968 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-07 10:59:57,048 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-07 10:59:57,084 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-07 10:59:58,437 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-07 11:04:17,051 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-07 11:04:31,688 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-07 11:04:33,367 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-07 11:04:33,392 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-07 11:04:33,414 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-07 11:04:33,434 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-07 11:04:45,683 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-07 11:04:47,747 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-07 11:04:50,792 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-07 11:04:50,834 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-07 11:04:53,867 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-07 11:04:56,904 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-07 11:05:15,446 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-07 11:36:11,371 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-07 11:36:24,956 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-07 11:36:26,736 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-07 11:36:26,757 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-07 11:36:26,776 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-07 11:36:26,795 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-07 11:36:38,646 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-07 11:36:40,440 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-07 11:36:43,486 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-07 11:36:43,532 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-07 11:36:46,557 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-07 11:36:49,587 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-07 11:37:03,985 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-07 12:00:33,198 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-07 12:00:47,555 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-07 12:00:49,554 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-07 12:00:49,570 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-07 12:00:49,585 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-07 12:00:49,600 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-07 12:01:01,925 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-07 12:01:04,150 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-07 12:01:07,198 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-07 12:01:07,234 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-07 12:01:10,262 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-07 12:01:13,284 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-07 12:01:31,437 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-08 11:12:55,177 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-08 11:13:10,273 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-08 11:13:12,211 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-08 11:13:12,233 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-08 11:13:12,257 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-08 11:13:12,280 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-08 11:13:25,569 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-08 11:13:27,436 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-08 11:13:30,501 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-08 11:13:30,552 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-08 11:13:33,617 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-08 11:13:36,673 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-08 11:13:57,630 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-08 11:14:00,221 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-08 11:14:01,754 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-08 11:14:01,812 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-08 11:14:01,883 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-08 11:14:02,161 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-08 11:14:02,271 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-08 11:14:02,322 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-08 11:14:04,290 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-08 11:19:26,142 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-08 11:19:42,859 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-08 11:19:44,853 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-08 11:19:44,880 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-08 11:19:44,906 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-08 11:19:44,927 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-08 11:19:57,814 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-08 11:19:59,917 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-08 11:20:02,980 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-08 11:20:03,036 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-08 11:20:06,086 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-08 11:20:09,148 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-08 11:20:24,272 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:32:35,058 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:32:50,507 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:32:52,296 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-09 15:32:52,320 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-09 15:32:52,345 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-09 15:32:52,369 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-09 15:33:04,583 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:33:06,538 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-09 15:33:09,581 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-09 15:33:09,634 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-09 15:33:12,700 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-09 15:33:15,752 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-09 15:33:31,611 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:36:37,665 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:36:39,921 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-09 15:36:42,980 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-09 15:36:43,037 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-09 15:36:46,083 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-09 15:36:49,145 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-09 15:37:07,221 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:45:56,167 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:46:10,513 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:46:12,436 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-09 15:46:12,462 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-09 15:46:12,485 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-09 15:46:12,509 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-09 15:46:25,020 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:46:26,925 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-09 15:46:29,996 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-09 15:46:30,048 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-09 15:46:33,096 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-09 15:46:36,162 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-09 15:46:53,474 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:50:31,584 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:50:46,832 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:50:48,637 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-09 15:50:48,661 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-09 15:50:48,686 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-09 15:50:48,709 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-09 15:51:01,514 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:51:03,251 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-09 15:51:06,303 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-09 15:51:06,353 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-09 15:51:09,394 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-09 15:51:12,451 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-09 15:51:26,781 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:53:05,795 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:53:20,606 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:53:22,463 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-09 15:53:22,492 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-09 15:53:22,519 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-09 15:53:22,544 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-09 15:53:34,853 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-09 15:53:36,581 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-09 15:53:39,634 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-09 15:53:39,691 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-09 15:53:42,737 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-09 15:53:45,791 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-09 15:54:03,182 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 19:04:57,328 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 19:05:14,227 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 19:05:16,363 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-19 19:05:16,389 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-19 19:05:16,415 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-19 19:05:16,437 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-19 19:05:29,463 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 19:05:31,272 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-19 19:05:34,327 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-19 19:05:34,383 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-19 19:05:37,430 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-19 19:05:40,488 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-19 19:05:55,689 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 19:11:41,989 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 19:11:51,887 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 19:11:53,625 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-19 19:11:53,651 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-19 19:11:53,676 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-19 19:11:53,697 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-19 19:12:01,719 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 19:12:03,776 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-19 19:12:06,846 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-19 19:12:06,891 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-19 19:12:09,927 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-19 19:12:12,973 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-19 19:12:24,550 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 19:12:26,364 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-19 19:12:28,167 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-19 19:12:28,228 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-19 19:12:28,325 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-19 19:12:28,607 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-19 19:12:28,712 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-19 19:12:28,765 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-19 19:12:30,510 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-19 19:27:55,415 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 19:28:04,531 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 19:28:06,415 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-19 19:28:06,434 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-19 19:28:06,452 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-19 19:28:06,471 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-19 19:28:13,229 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 19:28:14,913 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-19 19:28:17,974 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-19 19:28:18,019 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-19 19:28:21,058 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-19 19:28:24,093 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-19 19:28:34,897 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 19:28:36,717 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-19 19:28:38,148 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-19 19:28:38,192 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-19 19:28:38,248 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-19 19:28:38,442 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-19 19:28:38,520 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-19 19:28:38,556 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-19 19:28:39,997 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-19 19:48:30,968 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 19:48:39,719 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 19:48:41,513 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-19 19:48:41,534 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-19 19:48:41,554 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-19 19:48:41,576 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-19 19:48:48,470 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 19:48:50,307 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-19 19:48:53,372 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-19 19:48:53,411 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-19 19:48:56,438 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-19 19:48:59,470 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-19 19:49:09,992 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 19:49:11,799 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-19 19:49:13,152 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-19 19:49:13,205 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-19 19:49:13,265 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-19 19:49:13,475 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-19 19:49:13,556 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-19 19:49:13,592 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-19 19:49:14,994 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-19 21:08:33,463 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 21:08:42,736 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 21:08:44,710 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-19 21:08:44,730 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-19 21:08:44,751 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-19 21:08:44,771 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-19 21:08:51,869 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 21:08:53,659 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-19 21:08:56,714 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-19 21:08:56,757 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-19 21:08:59,796 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-19 21:09:02,828 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-19 21:09:17,690 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-19 21:09:19,438 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-19 21:09:20,878 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-19 21:09:20,923 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-19 21:09:20,979 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-19 21:09:21,179 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-19 21:09:21,266 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-19 21:09:21,301 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-19 21:09:22,765 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-20 09:59:56,596 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 10:00:06,392 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 10:00:08,341 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-20 10:00:08,373 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-20 10:00:08,406 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-20 10:00:08,438 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-20 10:00:17,728 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 10:00:19,775 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-20 10:00:22,841 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-20 10:00:22,894 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-20 10:00:25,949 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-20 10:00:29,000 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-20 10:00:48,188 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 10:00:50,031 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-20 10:00:51,492 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-20 10:00:51,555 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-20 10:00:51,624 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-20 10:00:51,909 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-20 10:00:52,021 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-20 10:00:52,071 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-20 10:00:53,832 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-20 11:47:37,517 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 11:47:47,624 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 11:47:49,652 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-20 11:47:49,677 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-20 11:47:49,700 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-20 11:47:49,724 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-20 11:48:19,401 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 11:48:40,174 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 11:48:54,845 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-20 11:48:54,883 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-20 11:48:54,925 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-20 11:48:54,958 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-20 11:49:09,247 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 11:49:11,311 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-20 11:49:14,376 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-20 11:49:14,437 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-20 11:49:17,489 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-20 11:49:20,553 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-20 11:49:32,931 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 11:49:35,403 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-20 11:49:37,322 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-20 11:49:37,386 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-20 11:49:37,459 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-20 11:49:37,740 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-20 11:49:37,842 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-20 11:49:37,887 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-20 11:49:40,014 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-20 11:55:42,149 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 11:55:52,406 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 11:55:54,558 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-20 11:55:54,579 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-20 11:55:54,601 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-20 11:55:54,627 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-20 11:56:03,738 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 11:56:06,358 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-20 11:56:09,403 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-20 11:56:09,461 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-20 11:56:12,532 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-20 11:56:15,576 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-20 11:56:33,252 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 12:38:38,803 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 12:38:52,628 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 12:38:54,424 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-20 12:38:54,453 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-20 12:38:54,482 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-20 12:38:54,510 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-20 12:39:05,805 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 12:39:07,792 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-20 12:39:10,867 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-20 12:39:10,929 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-20 12:39:13,983 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-20 12:39:17,042 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-20 12:39:31,265 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 12:41:46,070 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 12:41:59,289 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 12:42:01,023 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-20 12:42:01,051 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-20 12:42:01,077 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-20 12:42:01,102 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-20 12:42:12,291 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 12:42:13,998 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-20 12:42:17,039 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-20 12:42:17,080 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-20 12:42:20,124 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-20 12:42:23,173 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-20 12:42:42,098 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 18:15:16,343 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 18:15:29,950 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 18:15:31,965 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-20 18:15:31,998 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-20 18:15:32,027 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-20 18:15:32,056 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-20 18:15:43,709 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 18:15:45,891 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-20 18:15:48,968 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-20 18:15:49,035 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-20 18:15:52,080 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-20 18:15:55,134 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-20 18:16:09,455 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 18:16:27,501 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 18:16:40,985 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 18:16:43,096 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-20 18:16:43,129 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-20 18:16:43,157 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-20 18:16:43,203 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-20 18:16:54,025 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-20 18:16:55,859 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-20 18:16:58,931 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-20 18:16:58,991 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-20 18:17:02,033 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-20 18:17:05,076 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-20 18:17:18,951 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 21:24:08,586 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 21:24:21,916 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 21:24:23,622 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-23 21:24:23,646 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-23 21:24:23,669 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-23 21:24:23,691 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-23 21:24:35,516 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 21:24:37,286 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-23 21:24:40,336 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-23 21:24:40,384 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-23 21:24:43,424 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-23 21:24:46,474 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-23 21:25:01,298 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 21:25:16,067 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 21:25:28,068 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 21:25:29,908 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-23 21:25:29,944 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-23 21:25:29,970 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-23 21:25:29,995 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-23 21:25:40,392 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 21:25:42,186 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-23 21:25:45,235 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-23 21:25:45,281 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-23 21:25:48,322 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-23 21:25:51,376 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-23 21:26:05,059 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 22:16:42,002 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 22:16:55,034 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 22:16:56,953 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-23 22:16:56,980 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-23 22:16:57,004 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-23 22:16:57,026 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-23 22:17:08,994 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 22:17:10,683 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-23 22:17:13,736 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-23 22:17:13,777 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-23 22:17:16,812 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-23 22:17:19,856 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-23 22:17:34,863 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 22:17:49,329 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 22:18:01,960 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 22:18:03,782 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-23 22:18:03,808 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-23 22:18:03,833 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-23 22:18:03,857 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-23 22:18:14,580 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 22:18:16,432 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-23 22:18:19,503 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-23 22:18:19,561 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-23 22:18:22,611 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-23 22:18:25,666 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-23 22:18:39,390 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 22:23:17,031 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 22:23:31,242 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 22:23:32,985 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-23 22:23:33,009 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-23 22:23:33,031 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-23 22:23:33,054 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-23 22:23:44,508 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 22:23:46,218 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-23 22:23:49,278 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-23 22:23:49,339 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-23 22:23:52,383 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-23 22:23:55,437 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-23 22:24:14,650 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 22:24:18,066 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-23 22:24:19,696 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-23 22:24:19,770 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-23 22:24:19,844 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-23 22:24:20,096 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-23 22:24:20,188 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-23 22:24:20,236 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-23 22:24:21,856 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-23 22:24:33,122 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 22:24:50,870 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 22:24:53,066 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-23 22:24:53,096 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-23 22:24:53,121 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-23 22:24:53,157 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-23 22:25:03,783 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 22:25:05,585 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-23 22:25:08,651 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-23 22:25:08,698 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-23 22:25:11,747 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-23 22:25:14,795 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-23 22:25:29,142 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-23 22:25:32,531 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-23 22:25:34,272 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-23 22:25:34,356 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-23 22:25:34,441 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-23 22:25:34,713 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-23 22:25:34,829 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-23 22:25:34,886 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-23 22:25:36,634 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-24 11:37:43,490 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-24 11:37:57,446 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-24 11:37:59,492 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-24 11:37:59,514 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-24 11:37:59,537 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-24 11:37:59,559 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-24 11:38:11,244 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-24 11:38:13,060 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-24 11:38:16,120 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-24 11:38:16,168 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-24 11:38:19,211 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-24 11:38:22,255 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-24 11:38:37,978 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-24 11:38:41,377 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-24 11:38:42,962 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-24 11:38:43,031 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-24 11:38:43,103 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-24 11:38:43,338 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-24 11:38:43,436 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-24 11:38:43,490 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-24 11:38:45,376 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-24 11:38:57,375 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-24 11:39:09,867 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-24 11:39:11,772 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-24 11:39:11,795 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-24 11:39:11,819 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-24 11:39:11,840 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-24 11:39:23,081 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-24 11:39:25,260 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-24 11:39:28,311 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-24 11:39:28,372 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-24 11:39:31,416 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-24 11:39:34,474 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-24 11:39:48,421 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-24 11:39:51,820 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-24 11:39:53,626 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-24 11:39:53,704 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-24 11:39:53,802 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-24 11:39:54,084 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-24 11:39:54,211 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-24 11:39:54,265 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-24 11:39:56,225 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-24 12:12:35,212 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-24 12:12:49,012 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-24 12:12:51,234 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-24 12:12:51,258 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-24 12:12:51,282 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-24 12:12:51,309 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-24 12:13:04,992 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-24 12:13:06,899 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-24 12:13:09,962 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-24 12:13:10,007 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-24 12:13:13,042 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-24 12:13:16,101 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-24 12:13:31,124 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-24 12:13:34,536 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-24 12:13:36,004 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-24 12:13:36,069 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-24 12:13:36,147 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-24 12:13:36,403 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-24 12:13:36,499 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-24 12:13:36,543 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-24 12:13:38,086 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button
+2022-12-24 12:13:49,453 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-24 12:14:02,417 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-24 12:14:04,679 - com.AdaptiveRetail.TestCases.BaseClass -INFO - FirstName is Verified
+2022-12-24 12:14:04,698 - com.AdaptiveRetail.TestCases.BaseClass -INFO - LastName is Not Verified
+2022-12-24 12:14:04,719 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Email is verified
+2022-12-24 12:14:04,740 - com.AdaptiveRetail.TestCases.BaseClass -INFO - PhoneNumber is verified
+2022-12-24 12:14:16,096 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-24 12:14:18,065 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Navigated to Communication Preference
+2022-12-24 12:14:21,148 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-24 12:14:21,207 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-24 12:14:24,245 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked the checkbox
+2022-12-24 12:14:27,298 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked the Apply changes btn
+2022-12-24 12:14:42,183 - com.AdaptiveRetail.TestCases.BaseClass -INFO - URL is opened
+2022-12-24 12:14:45,660 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Naviagated to payments method
+2022-12-24 12:14:47,340 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Clicked on Add new button
+2022-12-24 12:14:47,423 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Entered card name
+2022-12-24 12:14:47,520 - com.AdaptiveRetail.TestCases.BaseClass -INFO - entered card number
+2022-12-24 12:14:47,792 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Month is been selected
+2022-12-24 12:14:47,914 - com.AdaptiveRetail.TestCases.BaseClass -INFO - Year is been selected
+2022-12-24 12:14:47,979 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on submit buttton
+2022-12-24 12:14:49,948 - com.AdaptiveRetail.TestCases.BaseClass -INFO - clicked on cancel button

@@ -1,0 +1,12 @@
+com\AdaptiveRetail\TestCases\PaymerntMethodTest.class
+com\AdaptiveRetail\TestCases\PersonalinfoTest.class
+com\AdaptiveRetail\TestCases\BaseClass.class
+Checktest\Fullcheck.class
+com\AdaptiveRetail\PageObjects\CommunicationPreference.class
+com\AdaptiveRetail\PageObjects\VerifyPersonalInfo.class
+com\AdaptiveRetail\Utilities\Reporting.class
+com\AdaptiveRetail\PageObjects\LoginPage.class
+com\AdaptiveRetail\TestCases\LoginTest.class
+com\AdaptiveRetail\PageObjects\PaymentMethods.class
+com\AdaptiveRetail\TestCases\CommunicationPreferenceTest.class
+com\AdaptiveRetail\Utilities\ReadConfig.class
