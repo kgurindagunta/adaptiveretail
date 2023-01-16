@@ -12,7 +12,7 @@ public class PersonalinfoTest extends BaseClass {
 	public void verifyPersonalInfo() throws InterruptedException, IOException {
 		VerifyPersonalInfo verify = new VerifyPersonalInfo(driver);
 		loginTest();
-
+		Thread.sleep(5000);
 		String fname = verify.verifyFname();
 
 		if (fname.contains(firstName) && fname != " ") {

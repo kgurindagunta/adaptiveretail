@@ -13,8 +13,10 @@ public class CommunicationPreferenceTest extends BaseClass {
 	public void checkboxTest() throws InterruptedException, IOException {
 		
 		loginTest();
+		
 		CommunicationPreference communication=new CommunicationPreference(driver);
 		
+		Thread.sleep(5000);
 		communication.clickCommunicationPreference();
 		log.info("Navigated to Communication Preference");
 		

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="2" ignored="0" total="8" passed="6">
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
   <reporter-output>
   </reporter-output>
-  <suite name="AdaptiveRetail test" duration-ms="139561" started-at="2022-12-23T21:23:55 IST" finished-at="2022-12-23T21:26:14 IST">
+  <suite name="AdaptiveRetail test" duration-ms="206769" started-at="2023-01-13T17:38:42 IST" finished-at="2023-01-13T17:42:09 IST">
     <groups>
     </groups>
-    <test name="AdaptiveRetail Test" duration-ms="75393" started-at="2022-12-23T21:23:55 IST" finished-at="2022-12-23T21:25:10 IST">
+    <test name="AdaptiveRetail Test" duration-ms="107555" started-at="2023-01-13T17:38:42 IST" finished-at="2023-01-13T17:40:29 IST">
       <class name="com.AdaptiveRetail.TestCases.CommunicationPreferenceTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:[CommunicationPreferenceTest passed=0 failed=0 skipped=0]]" name="setup" is-config="true" duration-ms="3059" started-at="2022-12-23T21:24:29 IST" finished-at="2022-12-23T21:24:33 IST">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.AdaptiveRetail.TestCases.CommunicationPreferenceTest@75881071]" name="setup" is-config="true" duration-ms="2967" started-at="2023-01-13T17:39:25 IST" finished-at="2023-01-13T17:39:28 IST">
           <params>
             <param index="0">
               <value>
@@ -18,17 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="checkboxTest()[pri:0, instance:[CommunicationPreferenceTest passed=0 failed=0 skipped=0]]" name="checkboxTest" duration-ms="16611" started-at="2022-12-23T21:24:33 IST" finished-at="2022-12-23T21:24:49 IST">
+        <test-method status="PASS" signature="checkboxTest()[pri:0, instance:com.AdaptiveRetail.TestCases.CommunicationPreferenceTest@75881071]" name="checkboxTest" duration-ms="21732" started-at="2023-01-13T17:39:28 IST" finished-at="2023-01-13T17:39:50 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkboxTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:[CommunicationPreferenceTest passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="5832" started-at="2022-12-23T21:24:49 IST" finished-at="2022-12-23T21:24:55 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AdaptiveRetail.TestCases.CommunicationPreferenceTest@75881071]" name="tearDown" is-config="true" duration-ms="8228" started-at="2023-01-13T17:39:50 IST" finished-at="2023-01-13T17:39:59 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.AdaptiveRetail.TestCases.CommunicationPreferenceTest -->
       <class name="com.AdaptiveRetail.TestCases.LoginTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="setup" is-config="true" duration-ms="9523" started-at="2022-12-23T21:23:55 IST" finished-at="2022-12-23T21:24:05 IST">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.AdaptiveRetail.TestCases.LoginTest@c81cdd1]" name="setup" is-config="true" duration-ms="7084" started-at="2023-01-13T17:38:42 IST" finished-at="2023-01-13T17:38:49 IST">
           <params>
             <param index="0">
               <value>
@@ -39,17 +39,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="login()[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="login" duration-ms="3877" started-at="2022-12-23T21:24:05 IST" finished-at="2022-12-23T21:24:09 IST">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.AdaptiveRetail.TestCases.LoginTest@c81cdd1]" name="login" duration-ms="5887" started-at="2023-01-13T17:38:49 IST" finished-at="2023-01-13T17:38:55 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="6403" started-at="2022-12-23T21:24:10 IST" finished-at="2022-12-23T21:24:16 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AdaptiveRetail.TestCases.LoginTest@c81cdd1]" name="tearDown" is-config="true" duration-ms="8456" started-at="2023-01-13T17:38:58 IST" finished-at="2023-01-13T17:39:06 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.AdaptiveRetail.TestCases.LoginTest -->
       <class name="com.AdaptiveRetail.TestCases.PaymerntMethodTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:[PaymerntMethodTest passed=0 failed=0 skipped=0]]" name="setup" is-config="true" duration-ms="3229" started-at="2022-12-23T21:24:55 IST" finished-at="2022-12-23T21:24:58 IST">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.AdaptiveRetail.TestCases.PaymerntMethodTest@2a70a3d8]" name="setup" is-config="true" duration-ms="2968" started-at="2023-01-13T17:39:59 IST" finished-at="2023-01-13T17:40:01 IST">
           <params>
             <param index="0">
               <value>
@@ -60,59 +60,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="paymentTest()[pri:0, instance:[PaymerntMethodTest passed=0 failed=0 skipped=0]]" name="paymentTest" duration-ms="5747" started-at="2022-12-23T21:24:58 IST" finished-at="2022-12-23T21:25:04 IST">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [true] but found [false]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:97)
-at org.testng.Assert.failNotEquals(Assert.java:969)
-at org.testng.Assert.assertTrue(Assert.java:43)
-at org.testng.Assert.assertTrue(Assert.java:53)
-at com.AdaptiveRetail.TestCases.PaymerntMethodTest.paymentTest(PaymerntMethodTest.java:17)
-at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.lang.reflect.Method.invoke(Method.java:498)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.util.ArrayList.forEach(ArrayList.java:1259)
-at org.testng.TestRunner.privateRun(TestRunner.java:766)
-at org.testng.TestRunner.run(TestRunner.java:587)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
-at org.testng.SuiteRunner.run(SuiteRunner.java:286)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
-at org.testng.TestNG.runSuites(TestNG.java:1039)
-at org.testng.TestNG.run(TestNG.java:1007)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+        <test-method status="PASS" signature="paymentTest()[pri:0, instance:com.AdaptiveRetail.TestCases.PaymerntMethodTest@2a70a3d8]" name="paymentTest" duration-ms="16207" started-at="2023-01-13T17:40:01 IST" finished-at="2023-01-13T17:40:18 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- paymentTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:[PaymerntMethodTest passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="5869" started-at="2022-12-23T21:25:04 IST" finished-at="2022-12-23T21:25:10 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AdaptiveRetail.TestCases.PaymerntMethodTest@2a70a3d8]" name="tearDown" is-config="true" duration-ms="11584" started-at="2023-01-13T17:40:18 IST" finished-at="2023-01-13T17:40:29 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.AdaptiveRetail.TestCases.PaymerntMethodTest -->
       <class name="com.AdaptiveRetail.TestCases.PersonalinfoTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:[PersonalinfoTest passed=0 failed=0 skipped=0]]" name="setup" is-config="true" duration-ms="2737" started-at="2022-12-23T21:24:16 IST" finished-at="2022-12-23T21:24:19 IST">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.AdaptiveRetail.TestCases.PersonalinfoTest@1fc2b765]" name="setup" is-config="true" duration-ms="2970" started-at="2023-01-13T17:39:06 IST" finished-at="2023-01-13T17:39:09 IST">
           <params>
             <param index="0">
               <value>
@@ -123,19 +81,19 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="verifyPersonalInfo()[pri:0, instance:[PersonalinfoTest passed=0 failed=0 skipped=0]]" name="verifyPersonalInfo" duration-ms="4184" started-at="2022-12-23T21:24:19 IST" finished-at="2022-12-23T21:24:23 IST">
+        <test-method status="PASS" signature="verifyPersonalInfo()[pri:0, instance:com.AdaptiveRetail.TestCases.PersonalinfoTest@1fc2b765]" name="verifyPersonalInfo" duration-ms="8895" started-at="2023-01-13T17:39:09 IST" finished-at="2023-01-13T17:39:18 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyPersonalInfo -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:[PersonalinfoTest passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="5999" started-at="2022-12-23T21:24:23 IST" finished-at="2022-12-23T21:24:29 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AdaptiveRetail.TestCases.PersonalinfoTest@1fc2b765]" name="tearDown" is-config="true" duration-ms="7019" started-at="2023-01-13T17:39:18 IST" finished-at="2023-01-13T17:39:25 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.AdaptiveRetail.TestCases.PersonalinfoTest -->
     </test> <!-- AdaptiveRetail Test -->
-    <test name="AdaptiveRetail Test1" duration-ms="63634" started-at="2022-12-23T21:25:11 IST" finished-at="2022-12-23T21:26:14 IST">
+    <test name="AdaptiveRetail Test1" duration-ms="98688" started-at="2023-01-13T17:40:30 IST" finished-at="2023-01-13T17:42:09 IST">
       <class name="com.AdaptiveRetail.TestCases.CommunicationPreferenceTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:[CommunicationPreferenceTest passed=0 failed=0 skipped=0]]" name="setup" is-config="true" duration-ms="1765" started-at="2022-12-23T21:25:36 IST" finished-at="2022-12-23T21:25:38 IST">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.AdaptiveRetail.TestCases.CommunicationPreferenceTest@306279ee]" name="setup" is-config="true" duration-ms="1752" started-at="2023-01-13T17:41:08 IST" finished-at="2023-01-13T17:41:09 IST">
           <params>
             <param index="0">
               <value>
@@ -146,17 +104,17 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="checkboxTest()[pri:0, instance:[CommunicationPreferenceTest passed=0 failed=0 skipped=0]]" name="checkboxTest" duration-ms="16447" started-at="2022-12-23T21:25:38 IST" finished-at="2022-12-23T21:25:54 IST">
+        <test-method status="PASS" signature="checkboxTest()[pri:0, instance:com.AdaptiveRetail.TestCases.CommunicationPreferenceTest@306279ee]" name="checkboxTest" duration-ms="26214" started-at="2023-01-13T17:41:09 IST" finished-at="2023-01-13T17:41:36 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkboxTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:[CommunicationPreferenceTest passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="6155" started-at="2022-12-23T21:25:54 IST" finished-at="2022-12-23T21:26:00 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AdaptiveRetail.TestCases.CommunicationPreferenceTest@306279ee]" name="tearDown" is-config="true" duration-ms="7886" started-at="2023-01-13T17:41:36 IST" finished-at="2023-01-13T17:41:44 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.AdaptiveRetail.TestCases.CommunicationPreferenceTest -->
       <class name="com.AdaptiveRetail.TestCases.LoginTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="setup" is-config="true" duration-ms="2494" started-at="2022-12-23T21:25:11 IST" finished-at="2022-12-23T21:25:13 IST">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.AdaptiveRetail.TestCases.LoginTest@481a15ff]" name="setup" is-config="true" duration-ms="2265" started-at="2023-01-13T17:40:30 IST" finished-at="2023-01-13T17:40:32 IST">
           <params>
             <param index="0">
               <value>
@@ -167,17 +125,17 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="login()[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="login" duration-ms="2766" started-at="2022-12-23T21:25:13 IST" finished-at="2022-12-23T21:25:16 IST">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.AdaptiveRetail.TestCases.LoginTest@481a15ff]" name="login" duration-ms="5263" started-at="2023-01-13T17:40:32 IST" finished-at="2023-01-13T17:40:38 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:[LoginTest passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="6095" started-at="2022-12-23T21:25:17 IST" finished-at="2022-12-23T21:25:23 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AdaptiveRetail.TestCases.LoginTest@481a15ff]" name="tearDown" is-config="true" duration-ms="7116" started-at="2023-01-13T17:40:41 IST" finished-at="2023-01-13T17:40:48 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.AdaptiveRetail.TestCases.LoginTest -->
       <class name="com.AdaptiveRetail.TestCases.PaymerntMethodTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:[PaymerntMethodTest passed=0 failed=0 skipped=0]]" name="setup" is-config="true" duration-ms="1812" started-at="2022-12-23T21:26:00 IST" finished-at="2022-12-23T21:26:02 IST">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.AdaptiveRetail.TestCases.PaymerntMethodTest@545997b1]" name="setup" is-config="true" duration-ms="1806" started-at="2023-01-13T17:41:44 IST" finished-at="2023-01-13T17:41:46 IST">
           <params>
             <param index="0">
               <value>
@@ -188,59 +146,17 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="paymentTest()[pri:0, instance:[PaymerntMethodTest passed=0 failed=0 skipped=0]]" name="paymentTest" duration-ms="5648" started-at="2022-12-23T21:26:02 IST" finished-at="2022-12-23T21:26:08 IST">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [true] but found [false]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:97)
-at org.testng.Assert.failNotEquals(Assert.java:969)
-at org.testng.Assert.assertTrue(Assert.java:43)
-at org.testng.Assert.assertTrue(Assert.java:53)
-at com.AdaptiveRetail.TestCases.PaymerntMethodTest.paymentTest(PaymerntMethodTest.java:17)
-at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.lang.reflect.Method.invoke(Method.java:498)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.util.ArrayList.forEach(ArrayList.java:1259)
-at org.testng.TestRunner.privateRun(TestRunner.java:766)
-at org.testng.TestRunner.run(TestRunner.java:587)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
-at org.testng.SuiteRunner.run(SuiteRunner.java:286)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
-at org.testng.TestNG.runSuites(TestNG.java:1039)
-at org.testng.TestNG.run(TestNG.java:1007)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+        <test-method status="PASS" signature="paymentTest()[pri:0, instance:com.AdaptiveRetail.TestCases.PaymerntMethodTest@545997b1]" name="paymentTest" duration-ms="16143" started-at="2023-01-13T17:41:46 IST" finished-at="2023-01-13T17:42:02 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- paymentTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:[PaymerntMethodTest passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="6341" started-at="2022-12-23T21:26:08 IST" finished-at="2022-12-23T21:26:14 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AdaptiveRetail.TestCases.PaymerntMethodTest@545997b1]" name="tearDown" is-config="true" duration-ms="6838" started-at="2023-01-13T17:42:02 IST" finished-at="2023-01-13T17:42:09 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.AdaptiveRetail.TestCases.PaymerntMethodTest -->
       <class name="com.AdaptiveRetail.TestCases.PersonalinfoTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:[PersonalinfoTest passed=0 failed=0 skipped=0]]" name="setup" is-config="true" duration-ms="1862" started-at="2022-12-23T21:25:23 IST" finished-at="2022-12-23T21:25:25 IST">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.AdaptiveRetail.TestCases.PersonalinfoTest@78186a70]" name="setup" is-config="true" duration-ms="1791" started-at="2023-01-13T17:40:48 IST" finished-at="2023-01-13T17:40:49 IST">
           <params>
             <param index="0">
               <value>
@@ -251,11 +167,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="verifyPersonalInfo()[pri:0, instance:[PersonalinfoTest passed=0 failed=0 skipped=0]]" name="verifyPersonalInfo" duration-ms="4500" started-at="2022-12-23T21:25:25 IST" finished-at="2022-12-23T21:25:30 IST">
+        <test-method status="PASS" signature="verifyPersonalInfo()[pri:0, instance:com.AdaptiveRetail.TestCases.PersonalinfoTest@78186a70]" name="verifyPersonalInfo" duration-ms="10367" started-at="2023-01-13T17:40:49 IST" finished-at="2023-01-13T17:41:00 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyPersonalInfo -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:[PersonalinfoTest passed=0 failed=0 skipped=0]]" name="tearDown" is-config="true" duration-ms="6011" started-at="2022-12-23T21:25:30 IST" finished-at="2022-12-23T21:25:36 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.AdaptiveRetail.TestCases.PersonalinfoTest@78186a70]" name="tearDown" is-config="true" duration-ms="7785" started-at="2023-01-13T17:41:00 IST" finished-at="2023-01-13T17:41:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

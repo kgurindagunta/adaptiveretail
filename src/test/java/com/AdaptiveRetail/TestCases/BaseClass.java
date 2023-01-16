@@ -1,11 +1,12 @@
 package com.AdaptiveRetail.TestCases;
 
 import java.io.File;
+
+
 import java.io.IOException;
 import java.text.SimpleDateFormat;
+import java.time.Duration;
 import java.util.Date;
-import java.util.concurrent.TimeUnit;
-
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
@@ -21,11 +22,10 @@ import org.testng.annotations.Parameters;
 
 import com.AdaptiveRetail.PageObjects.LoginPage;
 import com.AdaptiveRetail.Utilities.ReadConfig;
-import com.AdaptiveRetail.Utilities.Reporting;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class BaseClass extends Reporting {
+public class BaseClass {
 
 	ReadConfig readconfig = new ReadConfig();
 
@@ -42,9 +42,8 @@ public class BaseClass extends Reporting {
 
 	// public static Logger logger;
 	public static Logger log = Logger.getLogger(BaseClass.class);
-
-	@Parameters("browser")
 	@BeforeClass
+	@Parameters("browser")
 	public void setup(String br) throws IOException {
 
 		PropertyConfigurator.configure("log4j.properties");
@@ -63,7 +62,7 @@ public class BaseClass extends Reporting {
 		}
 
 		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
 	}
 
 	

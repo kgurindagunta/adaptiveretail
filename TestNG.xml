@@ -8,7 +8,7 @@
 
 </listeners>
 
-	<test name="AdaptiveRetail Test">
+	<test thread-count="5" name="AdaptiveRetail Test">
 		<parameter name="browser" value="Chrome" />
 		<classes>
 			<class name="com.AdaptiveRetail.TestCases.LoginTest" />
@@ -18,7 +18,7 @@
 		</classes>
 	</test>
 	
-	<test name="AdaptiveRetail Test1">
+	<test thread-count="5" name="AdaptiveRetail Test1">
 		<parameter name="browser" value="IE" />
 		<classes>
 			<class name="com.AdaptiveRetail.TestCases.LoginTest" />

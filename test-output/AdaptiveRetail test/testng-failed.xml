@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [AdaptiveRetail test]">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [AdaptiveRetail test]" parallel="tests">
   <listeners>
     <listener class-name="com.AdaptiveRetail.Utilities.Reporting"/>
   </listeners>
-  <test thread-count="5" name="AdaptiveRetail Test(failed)">
+  <test thread-count="5" name="AdaptiveRetail Test(failed)" parallel="tests">
     <parameter name="browser" value="Chrome"/>
     <classes>
+      <class name="com.AdaptiveRetail.TestCases.CommunicationPreferenceTest">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="checkboxTest"/>
+        </methods>
+      </class> <!-- com.AdaptiveRetail.TestCases.CommunicationPreferenceTest -->
       <class name="com.AdaptiveRetail.TestCases.PaymerntMethodTest">
         <methods>
           <include name="setup"/>
@@ -14,18 +21,13 @@
           <include name="tearDown"/>
         </methods>
       </class> <!-- com.AdaptiveRetail.TestCases.PaymerntMethodTest -->
+      <class name="com.AdaptiveRetail.TestCases.LoginTest">
+        <methods>
+          <include name="setup"/>
+          <include name="login"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.AdaptiveRetail.TestCases.LoginTest -->
     </classes>
   </test> <!-- AdaptiveRetail Test(failed) -->
-  <test thread-count="5" name="AdaptiveRetail Test1(failed)">
-    <parameter name="browser" value="IE"/>
-    <classes>
-      <class name="com.AdaptiveRetail.TestCases.PaymerntMethodTest">
-        <methods>
-          <include name="setup"/>
-          <include name="paymentTest"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.AdaptiveRetail.TestCases.PaymerntMethodTest -->
-    </classes>
-  </test> <!-- AdaptiveRetail Test1(failed) -->
 </suite> <!-- Failed suite [AdaptiveRetail test] -->

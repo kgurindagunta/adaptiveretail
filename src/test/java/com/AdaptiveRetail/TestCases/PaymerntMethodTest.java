@@ -13,7 +13,7 @@ public class PaymerntMethodTest extends BaseClass {
 		PaymentMethods payment = new PaymentMethods(driver);
 
 		loginTest();
-		Thread.sleep(3000);
+		Thread.sleep(5000);
 		//Assert.assertTrue(false);
 		payment.clickPaymentMethod();
 		log.info("Naviagated to payments method");
