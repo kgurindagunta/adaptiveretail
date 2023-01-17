@@ -52,13 +52,16 @@ public class BaseClass {
 
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
+			log.info("chrome driver is opened");
 		} else if (br.equalsIgnoreCase("firefox")) {
 			WebDriverManager.firefoxdriver().setup();
 			driver = new FirefoxDriver();
+			log.info("firefox driver is opened");
 
 		} else if (br.equalsIgnoreCase("IE")) {
 			WebDriverManager.edgedriver().setup();
 			driver = new EdgeDriver();
+			log.info("edge driver is opened");
 		}
 
 		driver.manage().window().maximize();
@@ -73,6 +76,8 @@ public class BaseClass {
 		
 		Thread.sleep(3000);
 		login.clickLogoutBtn();
+		
+		log.info("log out button is clicked");
 
 		driver.quit();
 
@@ -87,9 +92,13 @@ public class BaseClass {
 		String verify = login.verifyPage();
 
 		if (verify.contains("Log in to your account")) {
+			log.info("Login is available");
 			login.setEmail(username);
+			log.info("enteredusername");
 			login.setPassword(password);
+			log.info("entered password");
 			login.clickLogin();
+			log.info("clicked the login button");
 		} else {
 			System.out.println("Page is not valid");
 		}
