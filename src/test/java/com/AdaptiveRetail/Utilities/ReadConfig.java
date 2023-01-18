@@ -44,7 +44,7 @@ public class ReadConfig {
 	}
 	
 	public String getLastname() {
-		String firstname=pro.getProperty("lasttname");
+		String firstname=pro.getProperty("lastname");
 		return firstname;
 	}
 	
